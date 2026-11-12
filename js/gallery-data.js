@@ -293,4 +293,4 @@ const galleryData = [
 //     "category": "activities",
 //     "title": "Early Childhood Education #42"
 //   }
-// ];
+];
