@@ -15,8 +15,8 @@ const galleryData = [
   },
   {
     "id": 3,
-    "file": "IMG_2996.JPGg",
-    "path": "img/IMG_2996.JPGg",
+    "file": "IMG_2996.JPG",
+    "path": "img/IMG_2996.JPG",
     "category": "outreach",
     "title": "School Supplies Distribution #3"
   },
