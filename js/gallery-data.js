@@ -1,8 +1,8 @@
 const galleryData = [
   {
     "id": 1,
-    "file": "WhatsApp Image 2026-08-05 at 21.30.21 (1).jpeg",
-    "path": "img/WhatsApp Image 2026-08-05 at 21.30.21 (1).jpeg",
+    "file": "IMG_2994.JPG",
+    "path": "img/IMG_2994.JPG",
     "category": "classroom",
     "title": "Children in Classroom #1"
   },
